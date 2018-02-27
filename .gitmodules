@@ -1,0 +1,3 @@
+[submodule "SampleNancyBlackSite/NancyBlack"]
+	path = SampleNancyBlackSite/NancyBlack
+	url = https://github.com/nantcom/NancyBlack.git
