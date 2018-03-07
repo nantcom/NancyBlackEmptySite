@@ -1,0 +1,50 @@
+﻿[
+  {
+    "outputFile": "NancyBlack/Modules/ControlsSystem/ncb-Controls.css",
+    "inputFile": "NancyBlack/Modules/ControlsSystem/ncb-Controls.less"
+  },
+  {
+    "outputFile": "NancyBlack/Modules/ContentSystem/Views/editor-editframe.css",
+    "inputFile": "NancyBlack/Modules/ContentSystem/Views/editor-editframe.less"
+  },
+  {
+    "outputFile": "NancyBlack/Modules/ContentSystem/Views/editor-editarea.css",
+    "inputFile": "NancyBlack/Modules/ContentSystem/Views/editor-editarea.less"
+  },
+  {
+    "outputFile": "NancyBlack/Modules/DatabaseSystem/ncb-datacontext.css",
+    "inputFile": "NancyBlack/Modules/DatabaseSystem/ncb-datacontext.less"
+  },
+  {
+    "outputFile": "NancyBlack/Modules/CommerceSystem/ncb-commerce.css",
+    "inputFile": "NancyBlack/Modules/CommerceSystem/ncb-commerce.less"
+  },
+  {
+    "outputFile": "NancyBlack/Modules/CommerceSystem/Views/Admin/product.css",
+    "inputFile": "NancyBlack/Modules/CommerceSystem/Views/Admin/product.less"
+  },
+  {
+    "outputFile": "NancyBlack/Modules/AdminSystem/Views/admin.css",
+    "inputFile": "NancyBlack/Modules/AdminSystem/Views/admin.less"
+  },
+  {
+    "outputFile": "NancyBlack/Modules/CommerceSystem/Views/Admin/saleordermanager.css",
+    "inputFile": "NancyBlack/Modules/CommerceSystem/Views/Admin/saleordermanager.less"
+  },
+  {
+    "outputFile": "NancyBlack/Modules/ContentSystem/ncb-content.css",
+    "inputFile": "NancyBlack/Modules/ContentSystem/ncb-content.less"
+  },
+  {
+    "outputFile": "NancyBlack/Modules/CommerceSystem/Views/css/commerce-print.css",
+    "inputFile": "NancyBlack/Modules/CommerceSystem/Views/css/commerce-print.less"
+  },
+  {
+    "outputFile": "NancyBlack/Modules/CommerceSystem/Views/css/commerce-support.css",
+    "inputFile": "NancyBlack/Modules/CommerceSystem/Views/css/commerce-support.less"
+  },
+  {
+    "outputFile": "Site/css/style.css",
+    "inputFile": "Site/css/style.less"
+  },
+]
